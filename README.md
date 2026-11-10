@@ -11,7 +11,7 @@
 ### Screenshot
 
 ![Grilli Desktop Demo](./readme-images/desktop.png "Desktop Demo")
-![Sim Grilli mobile demo](./readme-images/mobile.png "Mobile demo")
+![Sim Grilli mobile demo](./readme-images/mobile_food_menu.png "Mobile demo")
 
 ### Run locally
 
