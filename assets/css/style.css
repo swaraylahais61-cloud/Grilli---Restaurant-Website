@@ -3,7 +3,7 @@
 \*-----------------------------------*/
 
 /**
- * copyright 2022 codewithsadee
+ * copyright 2026 codewithsadee
  */
 
 
@@ -687,6 +687,20 @@ body.nav-active { overflow: hidden; }
 .navbar .close-btn ion-icon { --ionicon-stroke-width: 40px; }
 
 .navbar .close-btn:is(:hover, :focus-visible) { color: var(--gold-crayola); }
+
+.logo {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.logo .brand-name {
+  color: var(--gold-crayola);
+  font-family: var(--fontFamily-forum);
+  font-size: 3.2rem;
+  line-height: 1;
+  white-space: nowrap;
+}
 
 .navbar .logo {
   max-width: max-content;

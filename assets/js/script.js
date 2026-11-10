@@ -9,6 +9,16 @@
  */
 
 const preloader = document.querySelector("[data-preaload]");
+const reservationDate = document.querySelector('input[name="reservation-date"]');
+
+if (reservationDate) {
+  const today = new Date();
+  const localToday = new Date(today.getTime() - today.getTimezoneOffset() * 60000)
+    .toISOString()
+    .split("T")[0];
+
+  reservationDate.min = localToday;
+}
 
 window.addEventListener("load", function () {
   preloader.classList.add("loaded");

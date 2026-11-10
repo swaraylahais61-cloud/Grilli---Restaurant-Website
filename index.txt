@@ -7,7 +7,7 @@ This is a Restaurant html template made by codewithsadee
 #---------- TOP BAR ----------#
 
 <ion-icon name="location-outline" aria-hidden="true"></ion-icon>
-Restaurant St, Delicious City, London 9578, UK
+Restaurant Cisaat, Sukabumi..
 
 <ion-icon name="time-outline" aria-hidden="true"></ion-icon>
 Daily : 8.00 am to 10.00 pm
@@ -35,15 +35,14 @@ Contact
 
 Visit Us
 
-Restaurant St, Delicious City,
-London 9578, UK
+Restaurant St, Cisaat Sukabumi Indonesia
 
 Open: 9.30 am - 2.30pm
 
 booking@grilli.com
 
 Booking Request
-+88-123-123456
++6281330725221
 
 Find A Table
 
@@ -245,12 +244,12 @@ Contact Us
 
 Booking Request
 
-+88-123-123456
++62813372522*
 
 Location
 
 Restaurant St, Delicious City,
-London 9578, UK
+Cisaat Sukabumi Indonesia
 
 Lunch Time
 
@@ -291,14 +290,14 @@ Upcoming Event
 
 alt = Flavour so good you’ll try to eat with your eyes.
 
-15/09/2022
+15/09/2026
 Food, Flavour
 Flavour so good you’ll try to eat with your eyes.
 
-08/09/2022
+08/09/2026
 Healthy Food
 
-03/09/2022
+03/09/2026
 Recipie
 
 View Our Blog
@@ -309,11 +308,11 @@ View Our Blog
 
 alt = grilli home
 
-Restaurant St, Delicious City, London 9578, UK
+Restaurant St, Delicious City, Cisaat Sukabumi
 
 booking@grilli.com
 
-Booking Request : +88-123-123456
+Booking Request : +6281330722*
 
 Open : 09:00 am - 01:00 pm
 
@@ -367,7 +366,7 @@ Best Special Menu
 alt = Greek Salad
 Greek Salad
 Avocados with crab meat, red onion, crab salad red bell pepper...
-$39.00
+Rp 39.00
 
 alt = Tokusen Wagyu
 Tokusen Wagyu
@@ -377,7 +376,7 @@ $45.00
 alt = Butternut Pumpkin
 Butternut Pumpkin
 Avocados with crab meat, red onion, crab salad stuffed bell pepper...
-$15.00
+Rp15.00
 
 alt = Opu Fish
 Opu Fish
@@ -387,7 +386,7 @@ $12.00
 alt = Greek Salad
 Greek Salad
 Avocados with crab meat, red onion, crab salad red bell pepper...
-$39.00
+Rp39.00
 
 alt = Tokusen Wagyu
 Tokusen Wagyu
@@ -397,12 +396,12 @@ $45.00
 alt = Butternut Pumpkin
 Butternut Pumpkin
 Avocados with crab meat, red onion, crab salad stuffed bell pepper...
-$15.00
+Rp15.00
 
 alt = Opu Fish
 Opu Fish
 Vegetables, cheeses, ground meats, tomato sauce, seasonings...
-$12.00
+Rp12.00
 
 
 alt = feature banner
@@ -412,8 +411,8 @@ Lobster Tortellini
 
 Lorem Ipsum is simply dummy text of the printingand typesetting industry lorem Ipsum has been the industrys standard dummy text ever since.
 
-$40.00
-$20.00
+Rp40.00
+Rp20.00
 
 
 
@@ -429,7 +428,7 @@ since 45 years.
 Enjoy our seasonal menu and experience the beauty of naturalness
 Lorem Ipsum is simply dummy text of the printingand typesetting industry lorem Ipsum has been the industrys standard dummy text ever since the when an unknown printer took a galley of type and scrambled it to make a type specimen book It has survived.
 
-Andrew Joe - Founder
+Capt Simone - Founder
 
 Lunch Time
 Monday to Sunday
@@ -442,5 +441,5 @@ Monday to Sunday
 Contact Us
 Restaurant St, Delicious City, London 9578, UK
 
-+88-123-123456
++628133072522*
 reservation@restro.com
